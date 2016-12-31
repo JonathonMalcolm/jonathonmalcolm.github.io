@@ -19,7 +19,14 @@ h5,
 h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    color: #FFFFFF;
 }
+
+.primary-1 { background-color: #FFFFFF }
+.primary-2 { background-color: #726161 }
+.primary-0 { background-color: #998E8E }
+.primary-3 { background-color: #473333 }
+.primary-4 { background-color: #611C1C }
 
 .topnav {
     font-size: 14px; 
@@ -34,7 +41,7 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
+    color: #FFFFFF;
     background: url(../img/intro-bg.jpg) no-repeat center center;
     background-size: cover;
 }
@@ -94,13 +101,20 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    border-top: 5px solid #473333;
+    background-color: #998E8E;
 }
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
+    border-top: 5px solid #473333;
+    background-color: #726161;
+}
+
+.content-section-last {
+    padding: 50px 0;
+    border-bottom: 5px solid #473333;
+    background-color: #726161;
 }
 
 .section-heading {
@@ -162,7 +176,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #dfdfdf;
 }
 
 p.copyright {
