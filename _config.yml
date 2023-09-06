@@ -1,6 +1,6 @@
 # main text of home
 title: Jonathon Malcolm
-bio: Dynamic Head of Engineering at HiloLabs, Jonathon combines a passion for innovative solutions with proven expertise in software development and leadership, always pushing the boundaries of what's possible.
+bio: Head of Engineering at HiloLabs, Jonathon drives innovation with a fusion of software expertise and leadership.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile-2.jpeg
+picture: assets/images/profile-1.jpeg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
